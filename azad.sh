@@ -27,9 +27,9 @@ echo -e "\e[1m\e[31m\
            ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
           "
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mN17R0 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Kod Sahibi \e[31mAzadAyaz \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31mYOUTUBE- Noob Hackers\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31mE G Hackers\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0
