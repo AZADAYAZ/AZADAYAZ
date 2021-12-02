@@ -27,16 +27,15 @@ echo -e "\e[1m\e[31m\
            ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
           "
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Kod Bay \e[31mEGHACK \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mN17R0 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31mEG HACK\e[1m\e[32m]<----------"
+echo -e  "            \e[1m\e[32m--------->[\e[31mYOUTUBE- Noob Hackers\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0
 pkg install mpv -y
 termux-setup-storage
 cd  /data/data/com.termux/files/usr/etc
-
 rm bash.bashrc
 
 ls
