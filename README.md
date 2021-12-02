@@ -18,9 +18,9 @@ cd $HOME
 
 ls
 
-cd T-LOAD
+cd AZADAYAZ
 
 ls
 
-bash t-load.sh
+bash azad.sh
 
