@@ -27,9 +27,9 @@ echo -e "\e[1m\e[31m\
            ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
           "
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░KODLAMA \e[31mEGHACK \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Kod Bay \e[31mEGHACK \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31mEGHACK\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31mEG HACK\e[1m\e[32m]<----------"
 echo " "
 echo ""
 sleep 8.0
