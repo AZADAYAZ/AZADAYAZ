@@ -1,4 +1,4 @@
-#!Script  author N117R0
+#!Script  EG HACK
 # EG HACK TARAFINDAN Oluşturuldu
 # Yaratıcı bir insan olun, kopyala yapıştır yapmayın
 
@@ -29,7 +29,7 @@ echo " "
 echo -e  "                  \e[1m\e[32m
 ▂▃▄▅▆▇▓▒░Kod BAY EG TARAFINDAN OLUŞTU[31mN17R0 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31myoutube.com/noobhackers\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31mEG HACK SAYGILARLA SUNAR\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 echo "                           geri dönüş için son 10 saniye"
