@@ -26,7 +26,7 @@ echo "clear" > null.txt
 cat "null.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 cat "cowtext.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 cat "banner.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
-cat "azad.txt"  >> /data/data/com.termux/files/usr/etc/bash.bashrc
+cat "azad.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 echo " "
 echo "                   "gitmeye hazırsın dostum.... | lolcat
 echo " "
