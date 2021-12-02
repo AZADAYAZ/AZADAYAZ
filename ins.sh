@@ -19,7 +19,7 @@ read varbanner
 echo
 echo -e "\e[1m\e[33m\nİKİNCİ \e[36mADINI \e[33mYAZ\e[32m 👇\n\n "
 read varcowsay
-echo  "cowsay -f eyes "$varcowsay" | lolcat" > cowtext.txt
+echo "cowsay -f eyes "$varcowsay" | lolcat" > cowtext.txt
 echo "toilet -f big '  $varbanner' -F gay | lolcat" > banner.txt
 echo 
 echo "clear" > null.txt
