@@ -36,6 +36,7 @@ sleep 8.0
 pkg install mpv -y
 termux-setup-storage
 cd  /data/data/com.termux/files/usr/etc
+
 rm bash.bashrc
 
 ls
@@ -78,9 +79,8 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "             "TERMUXTAN CIKIS YAPIP 5 saniye Bekleyip Giris YAPIN |lolcat 
+echo "             "cikis yapin ve 5 saniye bekleyin sonra giris yapın Termux a |lolcat 
 echo " "
 echo " "
 sleep 3.0
 cd $HOME
-
