@@ -77,7 +77,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "             "TERMUXTAN Çıkış Yapıp 5 saniye Bekleyip Giriş Yapın |lolcat 
+echo "             "TERMUXTAN CIKIS YAPIP 5 saniye Bekleyip Giris YAPIN |lolcat 
 echo " "
 echo " "
 sleep 3.0
