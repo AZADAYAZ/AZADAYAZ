@@ -28,9 +28,9 @@ echo -e "\e[1m\e[31m\
            ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
           "
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Kod Sahibi \e[31mAzadAyaz \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Kod Sahibi \e[31mAzad Ayaz \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31mF G Hackers\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31mFG Hackers\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0
@@ -80,7 +80,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "             "cikis yapin ve 5 saniye bekleyin sonra giris yapın Termux a |lolcat 
+echo "             "çıkış yapın ve 5 saniye bekleyin sonra giriş yapın Termux'a |lolcat 
 echo " "
 echo " "
 sleep 3.0
