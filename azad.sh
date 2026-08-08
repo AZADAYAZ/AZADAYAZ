@@ -1,5 +1,5 @@
-#!Script  EG HACK
-# EG HACK TARAFINDAN Oluşturuldu
+#!Script  FG HACK
+# FG HACK TARAFINDAN Oluşturuldu
 # Yaratıcı bir insan olun, kopyala yapıştır yapmayın
 
 ###################################
@@ -29,7 +29,7 @@ echo -e "\e[1m\e[31m\
 echo " "  
 echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Kod Sahibi \e[31mAzadAyaz \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31mE G Hackers\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31mF G Hackers\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0

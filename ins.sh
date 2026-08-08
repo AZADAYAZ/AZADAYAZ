@@ -1,5 +1,5 @@
 #!data/data/com.termux/files/etc
-#EG HACK ARACILIĞIYLA
+#FG HACK ARACILIĞIYLA
 #Desteğin İçin Teşekkür ederim
 ################
 cyn='\e[0;36m' 
