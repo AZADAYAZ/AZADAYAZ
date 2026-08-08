@@ -80,7 +80,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "             "çıkış yapın ve 5 saniye bekleyin sonra giriş yapın Termux'a |lolcat 
+echo "             "çıkış yapın ve 5 saniye bekleyin sonra giriş yapın Termux\'a |lolcat 
 echo " "
 echo " "
 sleep 3.0
